@@ -1,6 +1,7 @@
 def add(i, j):
     return i + j
 
+var=
 
 x = 1
 y = 2
