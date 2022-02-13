@@ -1,7 +1,7 @@
 def add(i, j):
     return i + j
 
-var=
+#var=
 
 x = 1
 y = 2
